@@ -3,7 +3,7 @@
 B2B contact information at your fingertips.
 
 ## Requirements
-* [Python](https://www.python.org/) >= 2.6
+* [Python](https://www.python.org/) >= 3.6
 * Business email to register an account with Lusha
 * Api key from [Lusha](https://dashboard.lusha.co/signup)
  
